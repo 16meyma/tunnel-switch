@@ -34,6 +34,10 @@ function FindProxyForURL(url, host)
 
         ,'youtube.com'
         ,'ytimg.com'
+        
+        ,'kongregate.com'
+        
+        ,'4chan.org'
     ];
     
     var exp_list = [ ];
